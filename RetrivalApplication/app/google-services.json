@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "857710375765",
+    "firebase_url": "https://khanakhazana-somaiya.firebaseio.com",
+    "project_id": "khanakhazana-somaiya",
+    "storage_bucket": "khanakhazana-somaiya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857710375765:android:55554c129d0ef4e4",
+        "android_client_info": {
+          "package_name": "com.example.rushabh.khanakazana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857710375765-2bprl57iatm44cq22sin89ldjb6n4mc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdV3OPWuoV1FCgs_AGGwSi2oT5J-2Ce9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857710375765:android:d6102a757ff0343a",
+        "android_client_info": {
+          "package_name": "com.example.rushabh.retrivalapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857710375765-2bprl57iatm44cq22sin89ldjb6n4mc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdV3OPWuoV1FCgs_AGGwSi2oT5J-2Ce9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

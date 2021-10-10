@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KhanaKazana</string>
+    <string name="starters_btn">Starters button</string>
+    <string name="main_course_btn">Main course button</string>
+    <string name="desserts_btn">Dessert button</string>
+    <string name="menu_heading">MENU</string>
+    <string name="title_activity_dummy">Dummy</string>
+</resources>
